@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgo:home|Door43 (mgo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mgo|d43-mgo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mgo/archive/master.zip|d43-mgo.zip]]
+
+**Recent Changes**
+{{changes>ns = mgo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mgo|Ethnologue data]]
+
